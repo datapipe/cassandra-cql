@@ -7,3 +7,13 @@ coverage
 doc
 Gemfile.lock
 tmp
+
+# Ignore bundler config.
+/.bundle
+
+#
+# jetbrains suggests ignoring _only_ these 2 files in git.
+#
+/.idea/workspace.xml
+/.idea/tasks.xml
+
